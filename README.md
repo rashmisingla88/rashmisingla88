@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashmisingla88
-- 👀 I’m interested in extracting meaningful understading from the large data sets.
-- 🌱 I’m currently learning python and machine learning.
+- 👀 I’m interested in creating a big picture from the large data sets.
+- 🌱 I’m currently undertaking ML projects.
 - 💞️ I’m looking to collaborate on various maching learning projects. 
 - 📫 How to reach me : Just write me here on Github
 
